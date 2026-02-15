@@ -12,7 +12,7 @@ Este repositório contém todos os materiais práticos (datasets, notebooks de l
     *   `vendas.csv`, `produtos_brasil.csv`, etc.: Datasets utilizados na aula.
 *   `Aula 03/`: Extração de Dados - Banco de Dados (SQL).
     *   `lab_02_sql.ipynb`: Notebook de exercícios práticos.
-    *   `vendas.db`, `produtos_brasil.db`, etc.: Datasets utilizados na aula.
+    *   `chinook.db`, `northwind.db`, etc.: Datasets utilizados na aula.
 
 ### Instruções para a Aula 0x       
 1.  Baixe a pasta `Aula 0x` para o seu computador.

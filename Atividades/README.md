@@ -18,11 +18,9 @@ Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset
 
 | Lab | Atividade | Competências Demonstradas |
 | :--- | :--- | :--- |
-| **Lab 01** | [Extração de Arquivos Planos (CSV/Excel)](./notebooks/lab_01_flat_files.ipynb) | Uso de `pandas` para leitura de múltiplos formatos, tratamento de encoding e separadores. |
-| **Lab 02** | [Extração via SQL (Banco Relacional)](./notebooks/lab_02_sql_extraction.ipynb) | Conexão com banco de dados via `SQLAlchemy`, execução de queries para join de tabelas. |
-| **Lab 03** | [Análise Exploratória Inicial (EDA)](./notebooks/lab_03_eda_basics.ipynb) | Estatística descritiva, identificação de tipos de variáveis e histogramas. |
-| **Doc** | [Dicionário de Dados](./docs/data_dictionary.md) | Documentação técnica dos metadados e schema do dataset. |
-
+| **Lab 01** | [Extração de Arquivos Planos (CSV/Excel)](Atividades/notebooks/lab_01.ipynb)| Uso de `pandas` para leitura de múltiplos formatos, tratamento de encoding e separadores. |
+| **Lab 02** | [Extração via SQL (Banco Relacional)](Atividades/notebooks/lab_02.ipynb) | Conexão com banco de dados via `SQLAlchemy`, execução de queries para join de tabelas. |
+| **Lab 03** | [Análise Exploratória Inicial (EDA)](Atividades/notebooks/lab_03.ipynb) | Estatística descritiva, identificação de tipos de variáveis e histogramas. |
 ### 🔹 Módulo 2: Limpeza e Tratamento de Dados (Data Cleaning)
 Técnicas para transformar dados sujos em dados confiáveis.
 

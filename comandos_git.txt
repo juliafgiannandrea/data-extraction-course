@@ -2,6 +2,9 @@ git fetch upstream
 git merge upstream/main
 git push origin main
 
+se der conflito de merge: para manter o do repositório original
+git checkout --theirs "Aula 10/lab_09_datetime.ipynb"
+git checkout --theirs "Aula 10/lab_10_feature_engineering.ipynb"
 
 
 https://docs.google.com/forms/d/13crk2QjOEr4xP-SPnX_fMfRoCCk1jIIQoVjeAo_ptwg/viewform?edit_requested=true
